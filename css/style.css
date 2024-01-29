@@ -14,9 +14,28 @@ header {
 .header-logo-container {
     position: absolute;
     bottom: 0;
-    margin: 0 auto 20px 100px;
+    margin: 0 0 20px 100px;
 }
 
 #header-logo-img {
     height: 50px;
+}
+
+
+main {
+    margin: 20px 0 20px 100px;
+}
+
+.article-info {
+    color: #808080;
+}
+
+.author-link {
+    color: #1FA9E5;
+    text-decoration: none;
+}
+
+.article-date {
+    display: block;
+    font-style: normal;
 }
