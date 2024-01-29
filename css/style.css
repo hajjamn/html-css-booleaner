@@ -1,3 +1,22 @@
-h1 {
-    color: red;
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-size: 450px;
+    background-color: #4EA0FF;
+    height: 150px;
+    position: relative;
+}
+
+.header-logo-container {
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto 20px 100px;
+}
+
+#header-logo-img {
+    height: 50px;
 }
