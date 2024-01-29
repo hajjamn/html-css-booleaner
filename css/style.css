@@ -23,7 +23,7 @@ header {
 
 
 main {
-    margin: 20px 0 20px 100px;
+    margin: 20px 100px 20px;
 }
 
 .article-info {
@@ -47,4 +47,22 @@ section {
 .img-credit {
     list-style-type: none;
     padding: 0;
+}
+
+table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.table-col-wide {
+    width: 50%;
+}
+
+thead {
+    background-color: #1FA9E5;
+    color: white;
+}
+
+.table-row-blue {
+    background-color: #B1E4F2;
 }
