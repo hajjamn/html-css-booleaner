@@ -39,3 +39,12 @@ main {
     display: block;
     font-style: normal;
 }
+
+section {
+    margin: 0 0 30px;
+}
+
+.img-credit {
+    list-style-type: none;
+    padding: 0;
+}
